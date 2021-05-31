@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishbehera
 - 👀 I’m interested in Full Stack Development using MERN Stack 
-- 🌱 I’m currently working on NODE JS Backend Developemnt using Java Secript,Node JS & Loopback.
-- 💞️ I’m looking to collaborate on Full Stack Development using HTML,CCSS,React ,Java Secript,Node JS,Express JS,Loopback,Mongo DB,MySQL,PostgreSQL & Type Srcipt.
+- 🌱 I’m currently working on NODE JS Backend Developemnt using Java Script,Node JS & Loopback,IBM API Connect,IBM API Gateway, OAuth,OIDC & JWT OAuth.
+- 💞️ I’m looking to collaborate on Full Stack Development using HTML,CCSS,React ,Java Script,Node JS,Express JS,Loopback,Mongo DB,MySQL,PostgreSQL & Type Srcipt.
 
 
 <!---
