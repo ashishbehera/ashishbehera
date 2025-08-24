@@ -7,49 +7,50 @@
 ---
 
 ## 🔭 Current Focus
-Building **robust, scalable, and enterprise-grade automation frameworks** with focus on **API and UI automation**, using:  
-**Cucumber, JavaScript, Node.js, IBM API Connect, IBM API Gateway, Jenkins, OAuth, OIDC, JWT OAuth**
+Building **enterprise-grade automation frameworks** and **leading test automation architecture** initiatives using modern tools and frameworks for **UI, API, and backend automation**.  
 
 ---
 
 ## 💼 Automation Expertise
 
+### 🏗️ Framework Design & Architecture
+[![Framework Design](https://img.shields.io/badge/Framework%20Design-Expert-green)]()  
+[![Cucumber](https://img.shields.io/badge/Cucumber-Expert-green?logo=cucumber)](https://cucumber.io/)  
+[![BDD](https://img.shields.io/badge/BDD-Expert-blue)]()  
+
+### 💻 Programming & Scripting
+[![Java](https://img.shields.io/badge/Java-Expert-red?logo=java)](https://www.java.com/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?logo=typescript)](https://www.typescriptlang.org/)  
+
 ### 🖥️ UI Automation
 [![Selenium](https://img.shields.io/badge/Selenium-Expert-green?logo=selenium)](https://www.selenium.dev/)  
 [![Playwright](https://img.shields.io/badge/Playwright-Advanced-blue?logo=playwright)](https://playwright.dev/)  
-[![Appium](https://img.shields.io/badge/Appium-Advanced-orange?logo=appium)](https://appium.io/)
 
-### 🔌 API Automation
+### 🔌 API & Backend Automation
 [![Rest Assured](https://img.shields.io/badge/RestAssured-Advanced-red?logo=java)](https://rest-assured.io/)  
-[![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?logo=node.js)](https://nodejs.org/)  
-[![IBM API Connect](https://img.shields.io/badge/IBM%20API%20Connect-Intermediate-blue)](https://www.ibm.com/cloud/api-connect)
+[![Postman](https://img.shields.io/badge/Postman-Advanced-orange?logo=postman)](https://www.postman.com/)  
+[![Karate](https://img.shields.io/badge/Karate-Intermediate-green)](https://github.com/karatelabs/karate)  
 
-### ⚙️ Frameworks & Tools
-[![Cucumber](https://img.shields.io/badge/Cucumber-Expert-green?logo=cucumber)](https://cucumber.io/)  
-[![TestNG](https://img.shields.io/badge/TestNG-Expert-red?logo=testng)](https://testng.org/)  
-[![Maven](https://img.shields.io/badge/Maven-Intermediate-blue?logo=apachemaven)](https://maven.apache.org/)  
+### ⚙️ CI/CD & DevOps
 [![Jenkins](https://img.shields.io/badge/Jenkins-Advanced-blue?logo=jenkins)](https://www.jenkins.io/)  
-[![Git](https://img.shields.io/badge/Git-Expert-black?logo=git)](https://git-scm.com/)  
-[![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?logo=docker)](https://www.docker.com/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-Expert-purple)]()  
 
 ### 🗄️ Databases
-[![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?logo=mysql)](https://www.mysql.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green?logo=mongodb)](https://www.mongodb.com/)
+[![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=mysql)](https://www.mysql.com/)  
 
 ### 🔒 Security & Auth
-[![OAuth](https://img.shields.io/badge/OAuth-Intermediate-blue)](https://oauth.net/)  
-[![OIDC](https://img.shields.io/badge/OIDC-Intermediate-blue)](https://openid.net/connect/)  
+[![OAuth2](https://img.shields.io/badge/OAuth2-Intermediate-blue)](https://oauth.net/2/)  
 [![JWT](https://img.shields.io/badge/JWT-Intermediate-red)](https://jwt.io/)
 
 ---
 
 ## 🌱 Future Goals
 - Lead **enterprise automation architecture initiatives**  
-- Design **end-to-end scalable frameworks**  
-- Drive **test strategy, quality standards, and mentoring teams**  
+- Design **end-to-end scalable automation frameworks**  
+- Define **test strategy, CI/CD pipelines, and quality standards**  
+- Mentor teams and drive **best practices in test automation**
 
 ---
 
 ## 💞️ Collaboration
-Open to collaborating on **automation framework design, SDET projects, and test strategy implementation** to improve **software quality, speed, and reliability**.
-
+Open to collaborating on **automation framework design, SDET projects, API/UI automation, and test strategy implementation** to improve **software quality, speed, and reliability**.
