@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ashish Behera
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshishBehera-blue?logo=linkedin)](https://www.linkedin.com/in/ashishbehera/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshishBehera-blue?logo=linkedin)](https://www.linkedin.com/in/ashish-kumar-behera-87794412/) 
 [![GitHub](https://img.shields.io/badge/GitHub-@ashishbehera-black?logo=github)](https://github.com/ashishbehera)
-[![Email](https://img.shields.io/badge/Email-ashish.k.behera@gmail.com-red?logo=gmail)](mailto:ashish.k.behera@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ash110uce@gmail.com-red?logo=gmail)](mailto:ash110uce@gmail.com)
 
 ---
 
